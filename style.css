@@ -52,20 +52,6 @@ ol li, ul li {
   text-align: left; 
 }
 
-/* .align used below to position my pictures separately from paragraph text */
-
-.align-right {
-  text-align: right;
-}
-
-.align-left {
-  text-align: left;
-}
-
-.align-center {
-  text-align: center;
-}
-
 footer {
   background-color: #4c666a;
   border-bottom: 1px solid #4c666a;
