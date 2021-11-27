@@ -91,11 +91,6 @@ footer h3 {
   margin: 10px;
 }
 
-.item-double {
-  flex: 2;
-  margin: 10px;
-}
-
 /* Groups & Items  (Desktop) */
 
 @media all and (min-width: 800px) {
@@ -105,7 +100,7 @@ footer h3 {
   }
 
   .group {
-    flex-direction: row;
+    flex-direction: column;
   }
 }
 
