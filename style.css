@@ -97,6 +97,9 @@ footer h3 {
   }
 }
 
+img {
+  width: 100%;
+}
 
 a:link    {color:blue}
 a:visited {color:seagreen}
