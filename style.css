@@ -94,11 +94,12 @@ footer h3 {
   }
 
   .group {
-    flex-direction: column;
+    flex-direction: row;
   }
 
   img {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
   }
 
 
